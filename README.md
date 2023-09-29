@@ -27,7 +27,7 @@
 </p>
 
 <div align="center">
-<br><p align="centre"><b>Número de Visitas desde:</b></p>  
+<br><p align="centre"><b>Número de Visitas desde 28/Set/2023:</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Djordsman}/count.svg"/></p> 
 </div>
 

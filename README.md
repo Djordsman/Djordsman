@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ola!+Eu+sou+Jorge+Custódio+Neto;Nascido+em+17/Nov/1989+e+sou+residente+do;Município+de+Barueri-SP+Zona+Oeste,;Estou+buscando+iniciar+minha+carreira+na+area+como:;Desenvolvedor+Web+Full+Stack+e;Conseguir+minha+1ª+vaga+como:;Desenvolvedor+Web+Front+End+Jr+e;Obrigado+pela+visita+e+aprecie+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ola!+Eu+sou+Jorge+Custódio+Neto;Nascido+em+17/Nov/1989+e+sou+residente+do;Município+de+Barueri-SP+Zona+Oeste,;Estou+buscando+iniciar+minha+carreira+na+area+como:;Desenvolvedor+Web+Full+Stack+e;Conseguir+minha+1ª+vaga+como:;Desenvolvedor+Web+Full+Stack+Jr+e;Obrigado+pela+visita+e+aprecie+meu+perfil!)](https://git.io/typing-svg)
 
 ## Social Media's: ##
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-custodio-neto-701540187/)
